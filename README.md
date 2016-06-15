@@ -2,3 +2,4 @@
 
 - constructor inject
 - field inject
+- inject constant by annotated With Named
